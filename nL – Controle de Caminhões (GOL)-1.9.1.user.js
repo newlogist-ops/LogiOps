@@ -1,12 +1,6 @@
-// ==UserScript==
-// @name         nL – Controle de Caminhões (GOL) 
-// @namespace    newlog.usina
-// @version      1.9.1
-// @description  dsadasdasd
-// @match        https://sgo.farm/gol/*
-// @run-at       document-idle
-// @grant        none
-// ==/UserScript==
+
+//  LO – LogiOps (GOL) 
+// version      beta-1.0
 
 (function () {
   'use strict';
